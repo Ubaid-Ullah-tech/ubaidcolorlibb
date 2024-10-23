@@ -1,0 +1,29 @@
+
+[
+    
+    {
+      "id": 1,
+      "title": "Discover the Enchanting and Beauty of Bali",
+      "image": "/src/assets/images/pixels4.webp",
+      "description": "Bali is a tropical paradise that offers more than just stunning beaches. From its rich cultural heritage to breathtaking landscapes, Bali captivates travelers with its temples, rice terraces, and serene waterfalls. Whether you’re surfing on the sandy shores, exploring the vibrant local markets, or indulging in world-class spa retreats, Bali offers a diverse experience for every traveler. Don't miss the iconic sunset at Tanah Lot Temple, where nature and spirituality come together in a magical setting."
+    },
+    {
+      "id": 2,
+      "title": "Experience the Magic of Paris: The City of Lights",
+      "image": "/src/assets/images/pixels1.webp",
+      "description": "Paris, the City of Lights, is a must-visit destination for anyone with a love for art, history, and romance. From the iconic Eiffel Tower to the charming streets of Montmartre, every corner of Paris has something special to offer. Stroll along the Seine River, visit the Louvre Museum, or enjoy a coffee at a quaint café. The city's timeless beauty and sophisticated charm make it a dream destination for travelers from all over the world."
+    },
+    {
+      "id": 3,
+      "title": "Explore the Wild Wonders of the African Safari",
+      "image": "/src/assets/images/pixela2.webp",
+      "description": "An African safari is a once-in-a-lifetime adventure that brings you face-to-face with some of the most majestic creatures on earth. Whether you're tracking the Big Five in Kenya or witnessing the Great Migration in Tanzania, the African savannah is a place of raw beauty and untamed wilderness. Capture the sunrise over the plains, listen to the call of the wild, and immerse yourself in the rich ecosystems that make Africa one of the most sought-after destinations for nature lovers."
+    },
+    {
+      "id": 4,
+      "title": "Sailing the Mediterranean: A Voyage Through History",
+      "image": "/src/assets/images/pixels3.avif",
+      "description": "A Mediterranean cruise offers travelers the chance to explore ancient cities, pristine beaches, and turquoise waters. From the ruins of Greece to the art-filled streets of Italy, every stop along the Mediterranean coast tells a story of civilization and beauty. Enjoy the luxury of sailing on crystal-clear seas, savoring local cuisines, and witnessing picturesque sunsets. Whether you’re a history buff or a beach lover, the Mediterranean promises an unforgettable journey through culture and time."
+    }
+  ]
+  

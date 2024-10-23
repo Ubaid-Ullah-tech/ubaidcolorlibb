@@ -1,0 +1,33 @@
+// App.scss
+
+.app-container {
+    height: 100vh;        // Full viewport height
+    overflow-y: scroll;   // Enable vertical scrolling
+    scroll-behavior: smooth; // Smooth scroll transition
+  
+    // Styling for each section
+    .section {
+      height: 100vh;      // Each section takes up the full viewport height
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+  
+      // Optional: Add some padding or spacing to style the content better
+      padding: 20px;
+    }
+  
+    h1, h2, p {
+      margin: 10px 0;
+    }
+  
+    // Optional: Add media queries for responsiveness (if needed)
+    @media (max-width: 768px) {
+      .section {
+        padding: 10px;
+      }
+    }
+
+   
+  }
+  

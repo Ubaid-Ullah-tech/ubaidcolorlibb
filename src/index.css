@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Ensure Roboto font is applied and font smoothing is active */
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  font-size: 16px; /* Set a base font size */
+}
+
+/* Tailwind class example for responsiveness */
+@layer base {
+  h1 {
+    @apply text-2xl sm:text-3xl md:text-4xl; /* Responsive font sizes */
+  }
+  p {
+    @apply text-base sm:text-lg md:text-xl; /* Adapt font size to screen size */
+  }
+}
+
+
+
+
+
+
+
+
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+    font-family: "Roboto";
+  }
+
+  
+   */

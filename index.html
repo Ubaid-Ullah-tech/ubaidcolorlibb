@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <!-- Viewport meta tag to ensure proper scaling on mobile devices -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>Vite + React</title>
+    <!-- AOS CSS for animations -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <!-- Custom CSS to improve font rendering -->
+    <style>
+      html, body {
+        margin: 0;
+        padding: 0;
+        font-family: 'Roboto', sans-serif; /* Make sure to load or import this font in your project */
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        text-rendering: optimizeLegibility; /* Enhance legibility on different devices */
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root"></div>
+    <!-- AOS JavaScript for animations -->
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+      AOS.init(); // Initialize AOS (Animate on Scroll)
+    </script>
+    <!-- Main React script from Vite -->
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
